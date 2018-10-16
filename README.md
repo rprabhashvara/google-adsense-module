@@ -1,4 +1,7 @@
 # Google AdSense
+
+## This is a private fork intended for a private project. Please don't use this on your projects.
+
 > Google AdSense integration for Nuxt.js. Advertisements will update whenever the page route changes
 
 ## Setup
